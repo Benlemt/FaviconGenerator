@@ -1,0 +1,19 @@
+{
+  "name": "Favicon",
+  "main": "index.html",
+  "window": {
+    "title": "Favicon Generator",
+    "icon": "logo.png",
+    "toolbar": false,
+    "height": 500,
+    "width": 500,
+    "frame": true,
+    "min_width": 500,
+    "min_height": 500,
+    "max_width": 500,
+    "max_height": 500
+  },
+  "dependencies": {
+    "imagemagick": "~0.1.3"
+  }
+}
